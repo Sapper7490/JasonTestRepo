@@ -1,7 +1,11 @@
-## Read Me
+# Read Me
 
 This is my first personal GitHub
 
-# Purpose
+## Purpose
 
 Attempt to pull from work so I can work from home and pull to work
+
+## Test topic
+
+Nothing going on here
